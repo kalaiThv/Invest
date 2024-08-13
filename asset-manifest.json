@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Invest/static/css/main.400c6df8.css",
+    "main.js": "/Invest/static/js/main.17729252.js",
+    "static/js/453.94c655fe.chunk.js": "/Invest/static/js/453.94c655fe.chunk.js",
+    "index.html": "/Invest/index.html",
+    "main.400c6df8.css.map": "/Invest/static/css/main.400c6df8.css.map",
+    "main.17729252.js.map": "/Invest/static/js/main.17729252.js.map",
+    "453.94c655fe.chunk.js.map": "/Invest/static/js/453.94c655fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400c6df8.css",
+    "static/js/main.17729252.js"
+  ]
+}
